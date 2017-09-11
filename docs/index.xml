@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Erick Sauceda</title>
+    <link>ericksauceda.org/</link>
+    <description>Recent content on Erick Sauceda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <copyright>true</copyright>
+    <lastBuildDate>Sun, 10 Sep 2017 22:03:07 -0700</lastBuildDate>
+    
+	<atom:link href="ericksauceda.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>ericksauceda.org/about/</link>
+      <pubDate>Sun, 10 Sep 2017 22:03:07 -0700</pubDate>
+      
+      <guid>ericksauceda.org/about/</guid>
+      <description>Software Engineer @ Datascience.com.</description>
+    </item>
+    
+  </channel>
+</rss>
